@@ -30,7 +30,7 @@ The project follows these steps:
 6️⃣. Performance Summary – Understand what the model's metrics mean and suggest areas for improvement. </b> 
 
 <h2>Evaluation Metrics Explained</h2>
-- <b>Accuracy – Overall correctness of the model.
+ <b>Accuracy – Overall correctness of the model.
 
 Precision – Focuses on how many of the customers predicted to churn actually did.
 
