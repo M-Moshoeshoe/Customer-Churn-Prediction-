@@ -46,7 +46,7 @@ F1 Score – Combines precision and recall for a balanced view.</b>
 
 <h2>Environments Used </h2>
 
-- <b>Environment: Jupyter Notebook or any Python IDE</b>
+- <b>Environment: Jupyter Notebook </b>
 
 <h2>Program walk-through:</h2>
 
