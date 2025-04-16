@@ -34,7 +34,7 @@ The project follows these steps:
 
 Precision – Focuses on how many of the customers predicted to churn actually did.
 
-Recall – Measures how well we caught the true churners (important in churn scenarios).
+Recall – Measures how well we caught the true churners.
 
 F1 Score – Combines precision and recall for a balanced view.</b>
 
